@@ -4,9 +4,17 @@ GLOSSARY (ALPHABETIC ORDER)
 
 Cache: A small fast memory that stores frequently accessed data to speed up processing and reduce access time to main memory or storage.
 
+Commercial Applications: Software or systems developed for business use or profit, often sold or licensed to customers.
+
+DVFS (Dynamic Voltage and Frequency Scaling): A power management technique that adjusts a processor's voltage and frequency basede on workload to save energy and reduce heat.
+
 eBPF (extended Berkeley Packet Filter): eBPF is a kernel technology that allows safely running custom programs inside the operating system to monitor, trace and extend kernel behavior without changing its code.
 
+IPC (Inter-Process Communication): A mechanism that allows different processes in operating system to exchange data and coordinate their actions.
+
 Kernel: The core part of an operating system that manages hardware, system resources and communication between hardware and software.
+
+Moore's Law: The observation that the number of transistors on a microchip roughly doubles about every two years, leading to increased computing power and efficiency.
 
 Scheduling Overhead: The extra time and resources the system spends managing task switching and scheduling, rathen than executing actual work.
 
