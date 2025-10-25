@@ -10,6 +10,8 @@ Cache: A small fast memory that stores frequently accessed data to speed up proc
 
 Commercial Applications: Software or systems developed for business use or profit, often sold or licensed to customers.
 
+Computational Overhead: The extra processing time and resources required by a system to manage tasks, beyond the time spent performing the actual computation.
+
 DVFS (Dynamic Voltage and Frequency Scaling): A power management technique that adjusts a processor's voltage and frequency basede on workload to save energy and reduce heat.
 
 eBPF (extended Berkeley Packet Filter): eBPF is a kernel technology that allows safely running custom programs inside the operating system to monitor, trace and extend kernel behavior without changing its code.
@@ -20,9 +22,13 @@ Kernel: The core part of an operating system that manages hardware, system resou
 
 Moore's Law: The observation that the number of transistors on a microchip roughly doubles about every two years, leading to increased computing power and efficiency.
 
+Overfitting: A modeling error in machine learning where a model learns the training data too closely, capturing noise instead of general patterns, which reduces its accuracy on new data.
+
 Perceptron: The simplest type of artificial neural network that makes decisions by combining weighted inputs and applying an activation function to classify data.
 
 Principal Components Analysis (PCA): A dimensionality reduction technique that transforms data into a smaller set of uncorrelated variables called principal components, capturing the most important variance in the data.     
+
+Regularization: A technique used in machine learning to reduce overfitting by adding a penalty to large or complex model parameters.
 
 Scheduling Overhead: The extra time and resources the system spends managing task switching and scheduling, rathen than executing actual work.
 
