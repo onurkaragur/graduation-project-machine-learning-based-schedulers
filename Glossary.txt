@@ -2,6 +2,10 @@ GLOSSARY (ALPHABETIC ORDER)
 
 ---------------------------------------
 
+Artificial Neural Network: Computational models inspired by the human brain, made up of interconnected nodes (neurons) that process data and learn patterns for tasks like classification or prediction.
+
+Bayesian Network: A probabilistic graphical model that represents relationships among variables using nodes and directed edges, allowing reasoning under certainty.
+
 Cache: A small fast memory that stores frequently accessed data to speed up processing and reduce access time to main memory or storage.
 
 Commercial Applications: Software or systems developed for business use or profit, often sold or licensed to customers.
@@ -16,5 +20,16 @@ Kernel: The core part of an operating system that manages hardware, system resou
 
 Moore's Law: The observation that the number of transistors on a microchip roughly doubles about every two years, leading to increased computing power and efficiency.
 
+Perceptron: The simplest type of artificial neural network that makes decisions by combining weighted inputs and applying an activation function to classify data.
+
+Principal Components Analysis (PCA): A dimensionality reduction technique that transforms data into a smaller set of uncorrelated variables called principal components, capturing the most important variance in the data.     
+
 Scheduling Overhead: The extra time and resources the system spends managing task switching and scheduling, rathen than executing actual work.
 
+Semi-Supervised Learning: A machine learning approach that uses a small amount of labeled data together with a large amount of unlabeled data to improve learning accuracy.
+
+Supervised Learning: A type of machine learning where a model is trained on labeled data to predict outcomes or classify new outputs.
+
+Support Vector Machines (SVMs): A supervised learning algorithm that finds the best boundary (hyperplane) to separate data into different classes with the maximum margin.
+
+Unsupervised Learning: A type of machine learning that finds hidden patterns or groupings in unlabeled data without predefined outputs.
