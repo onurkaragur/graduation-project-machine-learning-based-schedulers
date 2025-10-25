@@ -1,0 +1,1 @@
+*Computational Power ve ML algoritmaları arasındaki ilişkiden sunum sırasında bahset. Normalde güç arttıkça (donanımsal ve yazılımsal) ML algoritmaları daha iyi çalışır fakat akımı tersine çevirip ML algoritmaları ile computational powerı arttırabilir miyiz?
