@@ -2,3 +2,4 @@
 
 [2] D. D. Penney and L. Chen, “A Survey of Machine Learning Applied to Computer Architecture Design,” CoRR, pp. 1–14, Sep. 2019, https://scholar.google.com/citations?view_op=view_citation&hl=en&user=65YeVFoAAAAJ&citation_for_view=65YeVFoAAAAJ:Tyk-4Ss8FVUC
 
+[3] E. Ipek, O. Mutlu, J. F. Martinez, and R. Caruana, “Self-Optimizing Memory Controllers: A Reinforcement Learning Approach” in International Symposium on High-Performance Computer Architecture (HPCA), June 2008, https://users.ece.cmu.edu/~omutlu/pub/rlmc_isca08.pdf
