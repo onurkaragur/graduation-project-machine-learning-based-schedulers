@@ -1,1 +1,7 @@
 *Computational Power ve ML algoritmaları arasındaki ilişkiden sunum sırasında bahset. Normalde güç arttıkça (donanımsal ve yazılımsal) ML algoritmaları daha iyi çalışır fakat akımı tersine çevirip ML algoritmaları ile computational powerı arttırabilir miyiz?
+
+*Modelleri eğitirken: "Using a regression model to classify core affinity, thus dividing the workload and an additional regression model to predict execution time, enabling dynamic task migration
+
+*Bibliography [2] Sayfa 4 iki tane scheduler ile ilgili bölüm var, önemliler
+
+*

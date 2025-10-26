@@ -12,6 +12,8 @@ Commercial Applications: Software or systems developed for business use or profi
 
 Computational Overhead: The extra processing time and resources required by a system to manage tasks, beyond the time spent performing the actual computation.
 
+Data Level Approximation: A technique that reduces the amount or precision of data to lower computational cost or power usage while maintaining acceptable accuracy for the task.
+
 DVFS (Dynamic Voltage and Frequency Scaling): A power management technique that adjusts a processor's voltage and frequency basede on workload to save energy and reduce heat.
 
 eBPF (extended Berkeley Packet Filter): eBPF is a kernel technology that allows safely running custom programs inside the operating system to monitor, trace and extend kernel behavior without changing its code.
@@ -27,6 +29,8 @@ Overfitting: A modeling error in machine learning where a model learns the train
 Perceptron: The simplest type of artificial neural network that makes decisions by combining weighted inputs and applying an activation function to classify data.
 
 Principal Components Analysis (PCA): A dimensionality reduction technique that transforms data into a smaller set of uncorrelated variables called principal components, capturing the most important variance in the data.     
+
+Proportional-Integral: A type of control algorithm that combines proportional and integral actions to minimize error by correcting both the present and accumulated past differences between desired and actual values.
 
 Regularization: A technique used in machine learning to reduce overfitting by adding a penalty to large or complex model parameters.
 
