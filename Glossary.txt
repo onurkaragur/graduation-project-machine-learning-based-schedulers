@@ -2,17 +2,27 @@ GLOSSARY (ALPHABETIC ORDER)
 
 ---------------------------------------
 
+Ad Hoc: Refers to a solution or system designed for a specific purpose or situation, often created quickly without generalization.
+
 Artificial Neural Network: Computational models inspired by the human brain, made up of interconnected nodes (neurons) that process data and learn patterns for tasks like classification or prediction.
 
 Bayesian Network: A probabilistic graphical model that represents relationships among variables using nodes and directed edges, allowing reasoning under certainty.
 
 Cache: A small fast memory that stores frequently accessed data to speed up processing and reduce access time to main memory or storage.
 
+Chip Multiprocessors (CMPs): Processors that contain multiple independent cores on a single chip, allowing parallel execution of tasks for improved performance and efficiency.
+
 Commercial Applications: Software or systems developed for business use or profit, often sold or licensed to customers.
 
 Computational Overhead: The extra processing time and resources required by a system to manage tasks, beyond the time spent performing the actual computation.
 
+Data Bus: A communication pathway within a computer system that transfers data between components such as the CPU, memory, and input/output devices.
+
 Data Level Approximation: A technique that reduces the amount or precision of data to lower computational cost or power usage while maintaining acceptable accuracy for the task.
+
+DRAM Bandwidth: The rate at which data can be read from or written to a DRAM memory module, typically measured in gigabytes per second (GB/s).
+
+Dual In-line Memory Modules (DIMMs): Circuit boards that hold DRAM chips and provide memory to computers, featuring separate electrical contacts on each side for faster data transfer.
 
 DVFS (Dynamic Voltage and Frequency Scaling): A power management technique that adjusts a processor's voltage and frequency basede on workload to save energy and reduce heat.
 
@@ -21,6 +31,8 @@ eBPF (extended Berkeley Packet Filter): eBPF is a kernel technology that allows 
 IPC (Inter-Process Communication): A mechanism that allows different processes in operating system to exchange data and coordinate their actions.
 
 Kernel: The core part of an operating system that manages hardware, system resources and communication between hardware and software.
+
+L2 Load Miss Penalty: The delay that occurs when the processor fails to find requested data in the Level 2 cache and must fetch it from a slower memory level.
 
 Moore's Law: The observation that the number of transistors on a microchip roughly doubles about every two years, leading to increased computing power and efficiency.
 
@@ -37,6 +49,8 @@ Regularization: A technique used in machine learning to reduce overfitting by ad
 Scheduling Overhead: The extra time and resources the system spends managing task switching and scheduling, rathen than executing actual work.
 
 Semi-Supervised Learning: A machine learning approach that uses a small amount of labeled data together with a large amount of unlabeled data to improve learning accuracy.
+
+Stochastic Environment: An environment where outcomes are influenced by randomness or uncertainty, often modeled using probabilities.
 
 Supervised Learning: A type of machine learning where a model is trained on labeled data to predict outcomes or classify new outputs.
 
